@@ -1,4 +1,4 @@
-package org.mcgill.ecse321.designpatterns.observer;
+package ca.mcgill.ecse321.designpatterns.observer;
 
 import java.util.ArrayList;
 import java.util.List;

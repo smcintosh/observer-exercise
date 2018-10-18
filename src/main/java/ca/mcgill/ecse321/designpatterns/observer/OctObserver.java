@@ -1,4 +1,4 @@
-package org.mcgill.ecse321.designpatterns.observer;
+package ca.mcgill.ecse321.designpatterns.observer;
 
 public class OctObserver extends Observer {
 	private String octValue;
