@@ -1,4 +1,4 @@
-package ca.mcgill.ecse321.designpatterns.observer;
+package ca.uwaterloo.cs446.designpatterns.observer;
 
 public class NumberSubject extends Subject {
 	private int state;
